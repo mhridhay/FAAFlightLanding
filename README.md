@@ -50,7 +50,7 @@ Combined scatter plot and correlation data is seen to match.
   2. Rank regression results for landing distance on each of the normalized variables  
   3. Comparing the results:  
     1. Correlation for *speed_ground* and *speed_air* are very high (model1)  
-    2. p_values indicate *speed ground* to be more important than *speed_air* (model2) 
+    2. p_values indicate *speed ground* to be more important than *speed_air* (model2)  
     3. Normalized coefficients show that *speed_ground* has higher importance (model3)  
     Select 2. above as the ranking order of significant factors based on p_values 
 
